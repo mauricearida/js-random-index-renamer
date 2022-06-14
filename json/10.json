@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "34b7dd16ac57e0ddbbcea6f02721701e37c9c13b",
+  "edition": 1,
+  "date": 1647442536592,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background 5"
+    },
+    {
+      "trait_type": "human",
+      "value": "human 1"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes 3"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth 1"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories5"
+    }
+  ],
+  "compiler": "AETHER "
+}

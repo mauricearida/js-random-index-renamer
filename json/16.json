@@ -1,0 +1,15 @@
+{
+  "name": "Yellownaut #7",
+  "description": "The Yellownauts is a collection stored on the ERC-1155 blockhain, building the first ever community-driven Mars colony to the Metaverse. Designed by space architecture and exploration enthusiasts, passionate designers, and entrepreneurs, experience a story on Mars like no other.",
+  "image": "ipfs://QmU7TtgXrDX6iCzubtVPFdde41DQiVLsqydENFSmD7nvra/7.jpg",
+  "dna": "201b58a7fcf67b916249dbd3a0bd4722d2c9fa02",
+  "edition": 7,
+  "date": 1649252313593,
+  "attributes": [
+    {
+      "trait_type": "Ultra Rare",
+      "value": "Yellow Soul "
+    }
+  ],
+  "compiler": "AETHER "
+}

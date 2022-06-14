@@ -1,0 +1,15 @@
+{
+  "name": "Yellownaut #24",
+  "description": "The Yellownauts is a collection stored on the ERC-1155 blockhain, building the first ever community-driven Mars colony to the Metaverse. Designed by space architecture and exploration enthusiasts, passionate designers, and entrepreneurs, experience a story on Mars like no other.",
+  "image": "ipfs://QmU7TtgXrDX6iCzubtVPFdde41DQiVLsqydENFSmD7nvra/24.jpg",
+  "dna": "e24109debc1fe35ac3cd61eec5044b7c14e5e667",
+  "edition": 24,
+  "date": 1649252318897,
+  "attributes": [
+    {
+      "trait_type": "Ultra Rare",
+      "value": "Elon Musk"
+    }
+  ],
+  "compiler": "AETHER "
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Yellownaut #37",
+  "description": "The Yellownauts is a collection stored on the ERC-1155 blockhain, building the first ever community-driven Mars colony to the Metaverse. Designed by space architecture and exploration enthusiasts, passionate designers, and entrepreneurs, experience a story on Mars like no other.",
+  "image": "ipfs://QmU7TtgXrDX6iCzubtVPFdde41DQiVLsqydENFSmD7nvra/37.png",
+  "dna": "6ae3ce356e68e9a67be538fb40e16e89f1525bc8",
+  "edition": 37,
+  "date": 1649252323223,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nostalgia Lake"
+    },
+    {
+      "trait_type": "weapons",
+      "value": "No weapon"
+    },
+    {
+      "trait_type": "face",
+      "value": "Yellow face"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "Silver Cyborg"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Johny Depp"
+    },
+    {
+      "trait_type": "hair",
+      "value": "Pink Afro"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Undead eyes"
+    }
+  ],
+  "compiler": "AETHER "
+}

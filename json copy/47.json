@@ -1,0 +1,39 @@
+{
+  "name": "Yellownaut #47",
+  "description": "The Yellownauts is a collection stored on the ERC-1155 blockhain, building the first ever community-driven Mars colony to the Metaverse. Designed by space architecture and exploration enthusiasts, passionate designers, and entrepreneurs, experience a story on Mars like no other.",
+  "image": "ipfs://QmU7TtgXrDX6iCzubtVPFdde41DQiVLsqydENFSmD7nvra/47.png",
+  "dna": "d4b991132ed24378d25862828161f470a650b30b",
+  "edition": 47,
+  "date": 1649252326906,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Minerva Station"
+    },
+    {
+      "trait_type": "weapons",
+      "value": "No weapon"
+    },
+    {
+      "trait_type": "face",
+      "value": "Yellow face"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "Purple Anti Yellownauts"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "hair",
+      "value": "Pink Samurai"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Terminator eyes"
+    }
+  ],
+  "compiler": "AETHER "
+}
